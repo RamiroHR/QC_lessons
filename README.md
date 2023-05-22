@@ -7,4 +7,7 @@
 * Qiskit_Adding_binary_numbers
     [x] added exercices
     [ ] remove some for the exam
-    
+
+* Qiskit_Superposition_and_Born_Rule
+
+* SingleQubitGates
