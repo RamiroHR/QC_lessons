@@ -2,12 +2,23 @@
 
 ## Day-1 Practice
 
-* Qiskit_Your_1st_Q_circuit
+* 01_StateVector_Superposition_Measurement
+    [ ] refactor
 
-* Qiskit_Adding_binary_numbers
+* 02_Single_Qubit_Gates
+    [ ] refactor
+
+* 03_Multi_Qubit_System
+
+
+* 04_Classical_logic_gates
+    [ ] Solve and save one for exam
+
+* 06_Adding_binary_numbers
     [x] added exercices
     [ ] remove some for the exam
 
-* Qiskit_Superposition_and_Born_Rule
 
-* SingleQubitGates
+* 07_Entangled_states
+
+* 08_Superdense Coding
